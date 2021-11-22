@@ -14,7 +14,7 @@ test('That the lions strength and rest increases rested 82/72 str 55/60', () => 
     expect(ron.rested).toBe(72)
 
     
-
+ // test
 })
 
 test('That the lions rest decreases by another 10 72/62, and bitestrength goes up 1 35/37', () => {
