@@ -1,0 +1,15 @@
+{
+  "name": "activity1",
+  "version": "1.0.0",
+  "description": "Activity1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Toby Broadbent",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
